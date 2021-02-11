@@ -1,2 +1,4 @@
 # SysTop
-CPU performance monitoring through Electron.js
+CPU performance monitoring through Electron.js\
+Credits: Brad Traversy
+
